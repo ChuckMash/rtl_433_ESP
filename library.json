@@ -12,7 +12,8 @@
     "platforms": [
         "espressif32"
     ],
+  
     "dependencies": {
-        "ChuckMash/RadioLib": "^6.3.0" 
+        "ChuckMash/RadioLib": "https://github.com/ChuckMash/RadioLib.git#main"
     }
 }
