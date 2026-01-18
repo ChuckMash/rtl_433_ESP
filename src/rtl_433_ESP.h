@@ -40,7 +40,7 @@
 
 // RadioLib Library setup
 
-#idndef RADIOLIB_LOW_LEVEL
+#ifndef RADIOLIB_LOW_LEVEL
 #  define RADIOLIB_LOW_LEVEL
 #endif
 
